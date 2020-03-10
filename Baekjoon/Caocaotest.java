@@ -1,5 +1,4 @@
-package buza;
-
+package Baekjoon;
 import java.util.Scanner;
 
 public class Caocaotest {
